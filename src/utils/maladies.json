@@ -1,0 +1,158 @@
+{
+    "Cardiopathies congénitales": {
+        "id": 1,
+        "name": "Cardiopathies congénitales",
+        "maladies": [
+            "Communication inter-auriculaire (CIA)",
+            "Canal atrio-ventriculaire complet (CAVC)",
+            "Canal atrio-ventriculaire partiel (CAVP)",
+            "Oreillette unique",
+            "Canal artériel",
+            "Fenêtre Aorto-pulmonaire (FAP)",
+            "Tronc artériel commun (TAC)",
+            "Artère pulmonaire droite naissant de l’aorte ",
+            "Sténose valvulaire pulmonaire (SP)" ,
+            "Sténose sous valvulaire pulmonaire" ,
+            "Sténose supra valvulaire pulmonaire" ,
+            "Agénésie des valves pulmonaires à septum interventriculaire intact" ,
+            "Maladie d’Ebstein" ,
+            "Atrésie pulmonaire a septum ouvert (APSO)",
+            "Atrésie pulmonaire a septum intact (APSI)" ,
+            "Tétralogie de Fallot" ,
+            "Cœur triatrial",
+            "Rétrécissement mitral congénital",
+            "Insuffisance mitrale congénitale",
+            "Sténose valvulaire aortique",
+            "Sténose sous valvulaire aortique",
+            "Sténose supra valvulaire aortique",
+            "Bicuspidie aortique",
+            "Coarctation de l’aorte  (CO)",
+            "Interruption de l’arc aortique",
+            "Transposition des Gros Vaisseaux (TGV)",
+            "TGVC + CIV",
+            "Retour veineux pulmonaire anormal total non bloqué",
+            "Retour veineux pulmonaire anormal total bloqué",
+            "Retour veineux pulmonaire partiel" ,
+            "Ventricule droit à double issue",
+            "Malposition vasculaire avec CIV",
+            "Atrésie tricuspide",
+            "Atrésie aortique",
+            "Hypoplasie du cœur gauche",
+            "Ventricule unique",
+            "Malpositions cardiaques",
+            "Anomalies des artères coronaires",
+            "Anomalies des arcs aortiques",
+            "Fistule Aorto-pulmonaire (FAP)",
+            "Veine cave supérieure gauche (VCSG)",
+            "CIV+CA",
+            "CIV+CIA",
+            "SP+CIA",
+            "CIV+CO",
+            "Cardiopathie complexe" ,
+            "Autres"
+        ]
+
+    },
+    "Cardiopathies acquises":{
+        "id": 2,
+        "name": "Cardiopathies acquises",
+        "maladies": [
+            "Rhumatisme articulaire aigu sans cardite (RAA sans cardite)",
+            "Rhumatisme articulaire aigu avec valvulopathie rhumatismal mitral (RAA avec VRM)",
+            "Rhumatisme articulaire aigu avec valvulopathie rhumatismal aortique (RAA avec VRA)",
+            "Kawasaki avec atteinte cardiaque",
+            "Kawasaki sans atteinte cardiaque",
+            "Trouble du rythme",
+            "Péricardites",
+            "Myocardites",
+            "Cardiomyopathies",
+            "Hypertension artérielle (HTA)",
+            "Hypertension artérielle Pulmonaire (HTAP)",
+            "Tumeurs cardiaques",
+            "Endocardite infectieuse",
+            "Insuffisance mitrale",
+            "IAO",
+            "Autres"
+        ]
+
+    },
+    "Suspicion de cardiopathies": {
+        "id" : 3,
+        "name": "Suspicion de cardiopathies",
+        "maladies":[
+            "Myopathie",
+            "Souffle cardiaque",
+            "Préchimiothérapie",
+            "Cyanose",
+            "Syndrome polymalformatif",
+            "Bébé de mère diabétique"
+        ] 
+
+    },
+    "Vasculaire": {
+        "id": 4,
+        "name": "Vasculaire",
+        "maladies": [
+            "Angiome",
+            "Malformations artério-veineuses",
+            "Hypertension artérielle (HTA)",
+            "Hypertension artérielle sur sténose de l’artère rénale",
+            "Malformations vasculaires",
+            "Autre"
+        ]
+    },
+    "Rhumatologie": {
+        "id": 5,
+        "name": "Rhumatologie",
+        "maladies": [
+            "Arthrite juvénile idiopathique",
+            "Lupus",
+            "Dermatomyosite",
+            "Arthralgies",
+            "Psoriasis",
+            "Behçet",
+            "Périartérite noueuse",
+            "Maladie de Still",
+            "Takayasu",
+            "Purpura rhumatoïde",
+            "Syndrome inflammatoire inexpliqué",
+            "Maladies auto-inflammatoires",
+            "Fièvre méditerranéenne familiale (FMF)",
+            "Sclérodermie",
+            "Sarcoïdose",
+            "Autres"
+        ]
+    },
+    "Génétique": {
+        "id": 6,
+        "name": "Génétique",
+        "maladies": [
+            "Syndrome polymalformatif",
+            "Trisomie 21",
+            "Trisomie 18",
+            "Syndrome de cornea de lange",
+            "Syndrome de Noonan",
+            "Syndrome de Digeorge",
+            "Syndrome de Marfan",
+            "Williams beuren",
+            "Syndrome de régression caudale",
+            "Syndrome de Turner",
+            "Syndrome de Klinfelter",
+            "Syndrome d’alagille",
+            "Syndrome de Crouzon",
+            "Autres"
+        ]
+    },
+    "Autres": {
+        "id": 7,
+        "name": "Autres",
+        "maladies": [
+            "Myopathies",
+            "Retard staturo pondéral",
+            "Retard psycho-moteur",
+            "Retard mental",
+            "Bébé de mère diabétique",
+            "Syndrome polymalformatif"
+        ]
+    }
+}
